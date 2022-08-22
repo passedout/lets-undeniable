@@ -142,15 +142,15 @@
 - [TT-Tutorials](https://github.com/TT-Tutorials) - lol this kid resell my tools and skid github ~ Vichy | Skid and owns skid community ~ Karma
 - [Anarchy skid list](https://github.com/master7720/anarchy-skid-list)
 - [Vichy](https://github.com/Its-Vichy) - Scammed allot of people for his skid services for example recently these 2 people paid vichy in total of 2700$ for a private gen but it wasn't working and vichy refused to help them or even check on it and later even blocked them. If you would like to donate to these people here is their Adresses:
-@Hawkey2525 (<~~ on telegram) addresses:
-Btc: bc1q3gq8swx0t3wlqygzx9hrkus6razfnk6cyzkfhx
-Ltc: LPWyuasdHJ6Yb31N2e9tL7MhLCEoFMNTKX
-Eth: 0x44a6C6327D7074B0F539582150eB1DFA8d3522fC
+- @Hawkey2525 (<~~ on telegram) addresses:
+- Btc: bc1q3gq8swx0t3wlqygzx9hrkus6razfnk6cyzkfhx
+- Ltc: LPWyuasdHJ6Yb31N2e9tL7MhLCEoFMNTKX
+- Eth: 0x44a6C6327D7074B0F539582150eB1DFA8d3522fC
 -----------------------------------------------------
-@vinniezero (<~~ on telegram) addresses:
-Btc: bc1qezhze9zrnqnkue2a6cackjgxf9ymt4c0ef4jzw
-Ltc: LY1onUjp6rct1gMGgCApE6CjrTsvVStiwJ
-Eth: 0xe754ED40AB391454904ead791f66793fBb13D2DC
+- @vinniezero (<~~ on telegram) addresses:
+- Btc: bc1qezhze9zrnqnkue2a6cackjgxf9ymt4c0ef4jzw
+- Ltc: LY1onUjp6rct1gMGgCApE6CjrTsvVStiwJ
+- Eth: 0xe754ED40AB391454904ead791f66793fBb13D2DC
 
 Proof: https://egirl.host/‍‌​⁠⁠‍​‌‍‌​⁠‌​‌​‌​⁠‌ 
 / https://egirl.host/%E2%80%8D%E2%80%8C%E2%80%8B%E2%81%A0%E2%81%A0%E2%80%8D%E2%80%8B%E2%80%8C%E2%80%8D%E2%80%8C%E2%80%8B%E2%81%A0%E2%80%8C%E2%80%8B%E2%80%8C%E2%80%8B%E2%80%8C%E2%80%8B%E2%81%A0%E2%80%8C
