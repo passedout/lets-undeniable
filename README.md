@@ -152,7 +152,9 @@
 - Ltc: LY1onUjp6rct1gMGgCApE6CjrTsvVStiwJ
 - Eth: 0xe754ED40AB391454904ead791f66793fBb13D2DC
 
-Proof: https://egirl.host/‍‌​⁠⁠‍​‌‍‌​⁠‌​‌​‌​⁠‌ 
+Proof:
+<img src="https://cdn.discordapp.com/attachments/1004046623753646080/1011180613522423878/unknown.png"></code></a>
+https://egirl.host/‍‌​⁠⁠‍​‌‍‌​⁠‌​‌​‌​⁠‌ 
 / https://egirl.host/%E2%80%8D%E2%80%8C%E2%80%8B%E2%81%A0%E2%81%A0%E2%80%8D%E2%80%8B%E2%80%8C%E2%80%8D%E2%80%8C%E2%80%8B%E2%81%A0%E2%80%8C%E2%80%8B%E2%80%8C%E2%80%8B%E2%80%8C%E2%80%8B%E2%81%A0%E2%80%8C
 
 
