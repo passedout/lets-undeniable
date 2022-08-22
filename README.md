@@ -117,10 +117,9 @@
 
 ## Skid
 
-- [Snowad14](https://github.com/Snowad14/Requests-Hcaptcha-Solver) "semiskid" 1line of credit btw all line of code are copy/pasted LMFAO
-- [satyajit355](https://github.com/satyajit355) - Skidded vichys gen
-- [LanLan69](https://github.com/LanLan69) - Skidding h0nde, my gen and also my solver ultra cringe dude
-
+- [Snowad14](https://github.com/Snowad14/Requests-Hcaptcha-Solver) "semiskid" 1line of credit btw all line of code are copy/pasted LMFAO ~ Vichy
+- [satyajit355](https://github.com/satyajit355) - Skidded vichys gen (~ Vichy)
+- [LanLan69](https://github.com/LanLan69) - Skidding h0nde, my gen and also my solver ultra cringe dude ~ Vichy
 - [Astra](https://github.com/AstraaDev) Can't code for shit. Half of his shit is pasted.
 - [billythegoat356](https://github.com/billythegoat356) - Skid after reselling open source shit, owner of skid community that cant even install python and more..
 - [TerrificTable](https://github.com/TerrificTable) - This disabled person is not able to write his own readme ~ Vichy
