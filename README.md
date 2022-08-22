@@ -35,12 +35,12 @@
 - [hoemotion](https://github.com/hoemotion)
 - [Fweak](https://github.com/Fweak)
 - [Bytixo](https://github.com/bytixo)
-- [Hideaki](https://github.com/HideakiAtsuyo)
+- [Hideaki](https://github.com/HideakiAtsuyo) - DWC
 - [Dreamy](https://github.com/dreamywashere)
 - [Toast](https://github.com/traumatism)
 - [Oxi](https://github.com/oxitheman)
 - [Post](https://github.com/post04)
-- [Stanley-GF](https://github.com/Stanley-GF) DWC + Check always src, (not that trusted cuz worked with bby skids).
+- [Stanley-GF](https://github.com/Stanley-GF) - DWC + Check always src, (not that trusted cuz worked with bby skids).
 - [Itroublve](https://github.com/Itroublve)
 - [Hunolog](https://github.com/Hunolog)
 - [Aniell4](https://github.com/Aniell4)
