@@ -49,6 +49,7 @@
 - [Ui](https://github.com/UiIsBack)
 - [Merkz](https://github.com/ItsMerkz)
 - [Kxrma](https://github.com/boobbs)
+- [Tainted](https://github.com/Tainted06) Retired 😢.
 
 -----
 
