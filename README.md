@@ -115,7 +115,7 @@
 
 -----
 
-## Trusted General (TG)
+## Trusted MM General (TG)
 
 - [@Vanshaj](https://t.me/campingarunner)
 - [@Siegfried](https://t.me/siegfried_tos)
