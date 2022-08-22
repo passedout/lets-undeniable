@@ -115,6 +115,21 @@
 
 -----
 
+## Trusted General (TG)
+
+- [@Vanshaj](https://t.me/campingarunner)
+- [@Siegfried](https://t.me/siegfried_tos)
+- [@Effe](https://t.me/effe_tg)
+- [@Red.](https://t.me/Bright) --> https://t.me/botique_escrow <--
+- [@Mr Nick](https://t.me/Mrnick3205)
+- [@Randomizd](https://t.me/randomizd4)
+- [@Screams](https://t.me/screams1337)
+- [@Goat](https://t.me/GoatTokens)
+- [@Discord Solutions](https://t.me/discordsolutions)
+- [@welityo](https://t.me/massmentions)
+
+-----
+
 ## Skid
 
 - [Snowad14](https://github.com/Snowad14/Requests-Hcaptcha-Solver) "semiskid" 1line of credit btw all line of code are copy/pasted LMFAO ~ Vichy
