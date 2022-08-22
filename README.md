@@ -174,4 +174,4 @@ https://egirl.host/‍‌​⁠⁠‍​‌‍‌​⁠‌​‌​‌​⁠‌
 / https://egirl.host/%E2%80%8D%E2%80%8C%E2%80%8B%E2%81%A0%E2%81%A0%E2%80%8D%E2%80%8B%E2%80%8C%E2%80%8D%E2%80%8C%E2%80%8B%E2%81%A0%E2%80%8C%E2%80%8B%E2%80%8C%E2%80%8B%E2%80%8C%E2%80%8B%E2%81%A0%E2%80%8C
 
 
-(I know vichy if u see this u will get mad on me or make about me a video, so this is what i have to say: "SMD").
+(I know vichy if u see this u will get mad at me or make a video about this, so this is what i have to say: "SMD").
