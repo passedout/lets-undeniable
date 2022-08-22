@@ -12,9 +12,9 @@
 
 ## Blog
 
-1. [Why discord is trash.](https://github.com/Its-Vichy/lets-talk-about-discord/blob/main/DiscordTrash.md)
-2. [Don't download anything on internet](https://github.com/Its-Vichy/lets-talk-about-discord/blob/main/DownloadShit.md)
-3. [Message to skid](https://github.com/Its-Vichy/lets-talk-about-discord/blob/main/Skid.md)
+1. [Why discord is trash.](https://github.com/boobbs/lets-undeniable/blob/main/DiscordTrash.md)
+2. [Don't download anything on internet](https://github.com/boobbs/lets-undeniable/blob/main/DownloadShit.md)
+3. [Message to a skid](https://github.com/boobbs/lets-undeniable/blob/main/Skid.md)
 
 -----
 
@@ -155,3 +155,6 @@ Eth: 0xe754ED40AB391454904ead791f66793fBb13D2DC
 
 Proof: https://egirl.host/‍‌​⁠⁠‍​‌‍‌​⁠‌​‌​‌​⁠‌ 
 OR https://egirl.host/%E2%80%8D%E2%80%8C%E2%80%8B%E2%81%A0%E2%81%A0%E2%80%8D%E2%80%8B%E2%80%8C%E2%80%8D%E2%80%8C%E2%80%8B%E2%81%A0%E2%80%8C%E2%80%8B%E2%80%8C%E2%80%8B%E2%80%8C%E2%80%8B%E2%81%A0%E2%80%8C
+
+
+(I know vichy if u see this u will get mad or make about me a video, so this is what i have to say: "SMD").
