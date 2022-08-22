@@ -40,7 +40,7 @@
 - [Toast](https://github.com/traumatism)
 - [Oxi](https://github.com/oxitheman)
 - [Post](https://github.com/post04)
-- [Stanley-GF](https://github.com/Stanley-GF)
+- [Stanley-GF](https://github.com/Stanley-GF) DWC + Check always src, (not that trusted cuz worked with bby skids).
 - [Itroublve](https://github.com/Itroublve)
 - [Hunolog](https://github.com/Hunolog)
 - [Aniell4](https://github.com/Aniell4)
@@ -49,7 +49,6 @@
 - [Ui](https://github.com/UiIsBack)
 - [Merkz](https://github.com/ItsMerkz)
 - [Kxrma](https://github.com/boobbs)
-- [Vichy](https://github.com/Its-Vichy) (His repositorys looks like for now fine, but DWC + Check always the src.)
 
 -----
 
