@@ -132,6 +132,7 @@
 
 ## Skid
 
+- [undeniable](https://t.me/undeniable) - Join for full skid list + always up to date! (Telegram)
 - [Snowad14](https://github.com/Snowad14/Requests-Hcaptcha-Solver) "semiskid" 1line of credit btw all line of code are copy/pasted LMFAO ~ Vichy
 - [satyajit355](https://github.com/satyajit355) - Skidded vichys gen (~ Vichy)
 - [LanLan69](https://github.com/LanLan69) - Skidding h0nde, my gen and also my solver ultra cringe dude ~ Vichy
@@ -145,14 +146,14 @@
 - [Social404](https://github.com/notsocial404) - https://github.com/Its-Vichy/lets-talk-about-discord/issues/2 ~ Vichy
 - [KeevoDev](https://github.com/KeevoDev) - https://github.com/Its-Vichy/lets-talk-about-discord/issues/2 ~ Vichy\
 - [Vichy](https://github.com/Its-Vichy) - Doesn't know shit about sol and more.
-- [undeniable](https://t.me/undeniable) - Full skid list + always up to date! (Telegram)
 
 ----
 ## Scammer + skid
 
-- [undeniable](https://t.me/undeniable) - Full scammer list + always up to date! (Telegram)
+- [undeniable](https://t.me/undeniable) - Join for full skid list + always up to date! (Telegram)
 - [adzinoo](https://github.com/adzinoo) - scamming token gen for 50 bucks sheesh ~ Vichy
 - [CryonicsX](https://github.com/CryonicsX) - this kid selling my solver LMAO (https://media.discordapp.net/attachments/943968212251467877/947079061757366282/unknown.png) ~ Vichy
+- [Dropout](https://github.com/dropout1337) - Was selling fake wallet miners and scamming aswell. *Skid action*
 - [ExordiumX](https://github.com/ExordiumX) - Scammed many people for huge amount of $. For example skidded (DMDGO By: V4NSH4J) and later even started scamming since there came new updates for dmdgo. Danke vanish for ur sexy art work.
 - [TT-Tutorials](https://github.com/TT-Tutorials) - lol this kid resell my tools and skid github ~ Vichy | Skid and owns skid community ~ Karma
 - [Anarchy skid list](https://github.com/master7720/anarchy-skid-list)
