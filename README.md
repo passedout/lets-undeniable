@@ -20,10 +20,10 @@
 
 ## Tutorials / Tools
 
-1. [Reverse discord grabber (french)](https://github.com/Its-Vichy/Reverse-Discord-Stealer-Tutorial)
+1. [Reverse discord grabber](https://github.com/Its-Vichy/Reverse-Discord-Stealer-Tutorial) ~Vichy
 2. [Javascript deobfuscator](https://deobfuscate.relative.im/)
-3. [Python Anti-token grabber](https://github.com/Its-Vichy/Sezam)
-4. [Javascript Anti-token grabber](https://github.com/Its-Vichy/Spectre)
+3. [Python Anti-token grabber](https://github.com/Its-Vichy/Sezam) ~Vichy
+4. [Javascript Anti-token grabber](https://github.com/Its-Vichy/Spectre) ~Vichy
 5. [Golang Anti-token grabber](https://github.com/traumatism/Discord-Malware-Detector)
 
 -----
