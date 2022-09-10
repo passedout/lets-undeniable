@@ -57,7 +57,6 @@
 
 ⚠️ Always Click on the username from here to ensure you're talking to the right person. ⚠️
 
-- [@effe](http://t.me/effe_tg)
 - [@Randomizd](http://t.me/Randomizd4)
 - [@Ish](http://t.me/Ishontelegram)
 - [@Bertan](http://t.me/bertantaskiran)
@@ -119,7 +118,6 @@
 
 - [@Vanshaj](https://t.me/campingarunner)
 - [@Siegfried](https://t.me/siegfried_tos)
-- [@Effe](https://t.me/effe_tg)
 - [@Red.](https://t.me/Bright) --> https://t.me/botique_escrow <--
 - [@Mr Nick](https://t.me/Mrnick3205)
 - [@Randomizd](https://t.me/randomizd4)
