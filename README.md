@@ -50,6 +50,7 @@
 - [Merkz](https://github.com/ItsMerkz)
 - [Kxrma](https://github.com/RemoteTool)
 - [Tainted](https://github.com/Tainted06) Retired 😢.
+- [Shahzain](https://github.com/shahzain345)
 
 -----
 
