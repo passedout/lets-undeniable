@@ -48,7 +48,7 @@
 - [Skipted](https://github.com/scripted-1337)
 - [Ui](https://github.com/UiIsBack)
 - [Merkz](https://github.com/ItsMerkz)
-- [Kxrma](https://github.com/boobbs)
+- [Kxrma](https://github.com/RemoteTool)
 - [Tainted](https://github.com/Tainted06) Retired 😢.
 
 -----
@@ -108,7 +108,7 @@
 - [@FATBee](https://t.me/fatbeebhw)
 - [@Siegfried](https://t.me/siegfried_tos)
 - [@Vanshaj](https://t.me/campingarunner)
-- [@boobjob](https://t.me/boobjob)
+- [@łex](https://t.me/boobjob)
 
 ⚠️ Always Click on the username from here to ensure you're talking to the right person. ⚠️
 
