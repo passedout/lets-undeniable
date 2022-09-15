@@ -156,7 +156,7 @@
 - [ExordiumX](https://github.com/ExordiumX) - Scammed many people for huge amount of $. For example skidded (DMDGO By: V4NSH4J) and later even started scamming since there came new updates for dmdgo. Danke vanish for ur sexy art work.
 - [TT-Tutorials](https://github.com/TT-Tutorials) - lol this kid resell my tools and skid github ~ Vichy | Skid and owns skid community ~ Karma
 - [Anarchy skid list](https://github.com/master7720/anarchy-skid-list)
-- [Vichy](https://github.com/Its-Vichy) - Scammed allot of people for his skid services for example recently these 2 people paid vichy in total of 2700$ for a private gen but it wasn't working and vichy refused to help them or even check on it and later even blocked them. If you would like to donate to these people here is their Adresses:
+- [Vichy](https://github.com/Its-Vichy) - Scammed allot of people for his skid services for example recently these 2 people paid vichy in total of 2700$ for a private gen but it wasn't working and vichy refused to help them or even check on it and later even blocked them. If you would like to donate to these people here are their Adresses:
 - @Hawkey2525 (<~~ on telegram) addresses:
 - Btc: bc1q3gq8swx0t3wlqygzx9hrkus6razfnk6cyzkfhx
 - Ltc: LPWyuasdHJ6Yb31N2e9tL7MhLCEoFMNTKX
