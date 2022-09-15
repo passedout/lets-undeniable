@@ -12,9 +12,9 @@
 
 ## Blog
 
-1. [Why discord is trash.](https://github.com/boobbs/lets-undeniable/blob/main/DiscordTrash.md)
-2. [Don't download anything on internet](https://github.com/boobbs/lets-undeniable/blob/main/DownloadShit.md)
-3. [Message to a skid](https://github.com/boobbs/lets-undeniable/blob/main/Skid.md)
+1. [Why discord is trash.](https://github.com/RemoteTool/lets-undeniable/blob/main/DiscordTrash.md)
+2. [Don't download anything on internet](https://github.com/RemoteTool/lets-undeniable/blob/main/DownloadShit.md)
+3. [Message to a skid](https://github.com/RemoteTool/lets-undeniable/blob/main/Skid.md)
 
 -----
 
