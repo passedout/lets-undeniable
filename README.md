@@ -12,9 +12,9 @@
 
 ## Blog
 
-1. [Why discord is trash.](https://github.com/RemoteTool/lets-undeniable/blob/main/DiscordTrash.md)
-2. [Don't download anything on internet](https://github.com/RemoteTool/lets-undeniable/blob/main/DownloadShit.md)
-3. [Message to a skid](https://github.com/RemoteTool/lets-undeniable/blob/main/Skid.md)
+1. [Why discord is trash.](https://github.com/b4am/lets-undeniable/blob/main/DiscordTrash.md)
+2. [Don't download anything on internet](https://github.com/b4am/lets-undeniable/blob/main/DownloadShit.md)
+3. [Message to a skid](https://github.com/b4am/lets-undeniable/blob/main/Skid.md)
 
 -----
 
@@ -48,7 +48,7 @@
 - [Skipted](https://github.com/scripted-1337)
 - [Ui](https://github.com/UiIsBack)
 - [Merkz](https://github.com/ItsMerkz)
-- [@beam (aka. karma)](https://github.com/RemoteTool)
+- [@beam (aka. karma)](https://github.com/b4am)
 - [Tainted](https://github.com/Tainted06) Retired 😢.
 - [Shahzain](https://github.com/shahzain345)
 
