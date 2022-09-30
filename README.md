@@ -52,6 +52,7 @@
 - [Sleepy (aka. karma)](https://github.com/passedout)
 - [Tainted](https://github.com/Tainted06) Retired 😢.
 - [Shahzain](https://github.com/shahzain345)
+- [Vesper](https://github.com/vesperlol)
 
 -----
 
