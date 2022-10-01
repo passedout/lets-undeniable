@@ -147,11 +147,13 @@
 - [Social404](https://github.com/notsocial404) - https://github.com/Its-Vichy/lets-talk-about-discord/issues/2 ~ Vichy
 - [KeevoDev](https://github.com/KeevoDev) - https://github.com/Its-Vichy/lets-talk-about-discord/issues/2 ~ Vichy\
 - [Vichy](https://github.com/Its-Vichy) - Doesn't know shit about sol and more.
+- [Gingest](https://t.me/gingest) - Doesn't know shit about coding and skidding any opensrc from github LOL, bro acts harmfull in the dahoodian (roblox game) pasted ass game and thinks he's the shit LOL. (Hated by the most *known/legit coders*) BTW This counts aswell for his 'friends': Xhulo, Blast, Another fag but forgot his name.
 
 ----
 ## Scammer + skid
 
-- [undeniable](https://t.me/undeniable) - Join for full skid list + always up to date! (Telegram)
+- [undeniable](https://t.me/undeniable) - Join for full scammer+skid list, (always up to date! (Telegram)).
+- [Gingest](https://t.me/gingest) - Scammed allot of lil 10 y.o dahoodians and tryna act rich 💀 + @dmdgo members and prob other communitys. Funny --> [click me](https://cdn.discordapp.com/attachments/1017716626373750814/1025809987819274390/unknown.png) BTW This counts aswell for his femboy dick rider friend Xhulo!
 - [adzinoo](https://github.com/adzinoo) - scamming token gen for 50 bucks sheesh ~ Vichy
 - [CryonicsX](https://github.com/CryonicsX) - this kid selling my solver LMAO (https://media.discordapp.net/attachments/943968212251467877/947079061757366282/unknown.png) ~ Vichy
 - [Dropout](https://github.com/dropout1337) - Was selling fake wallet miners and scamming aswell. *Skid action*
