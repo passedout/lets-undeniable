@@ -60,6 +60,7 @@
 
 ⚠️ Always Click on the username from here to ensure you're talking to the right person. ⚠️
 
+- [Trusted](https://t.me/dmdgo/27) ~ Up to date always
 - [@Randomizd](http://t.me/Randomizd4)
 - [@Ish](http://t.me/Ishontelegram)
 - [@Bertan](http://t.me/bertantaskiran)
@@ -119,6 +120,7 @@
 
 ## Trusted MM General (TG)
 
+- [MM](https://t.me/dmdgo/26) ~ Up to date always
 - [@Vanshaj](https://t.me/campingarunner)
 - [@Siegfried](https://t.me/siegfried_tos)
 - [@Red.](https://t.me/Bright) --> https://t.me/botique_escrow <--
