@@ -103,7 +103,6 @@
 - [@Nova](https://t.me/novaisveryhot)
 - [@tos follower ni-](https://t.me/tos_follower)
 - [@surreal](https://t.me/surreal04)
-- [@cashflow](https://t.me/cashflow1337)
 - [@sirloin](https://t.me/sirloin)
 - [@Tainted](https://t.me/TaintedDev)
 - [@Coradox](https://t.me/Coradox) <~~ Prefer using DWC.
@@ -120,9 +119,12 @@
 
 ## Trusted MM General (TG)
 
+⚠️ Always Click on the username from here to ensure you're talking to the right person. ⚠️
+
 - [MM](https://t.me/dmdgo/26) ~ Up to date always
 - [@Vanshaj](https://t.me/campingarunner)
 - [@Siegfried](https://t.me/siegfried_tos)
+- [@Effe](https://t.me/effe_tg)
 - [@Red.](https://t.me/Bright) --> https://t.me/botique_escrow <--
 - [@Mr Nick](https://t.me/Mrnick3205)
 - [@Randomizd](https://t.me/randomizd4)
@@ -130,6 +132,8 @@
 - [@Goat](https://t.me/GoatTokens)
 - [@Discord Solutions](https://t.me/discordsolutions)
 - [@welityo](https://t.me/massmentions)
+
+⚠️ Always Click on the username from here to ensure you're talking to the right person. ⚠️
 
 -----
 
