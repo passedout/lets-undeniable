@@ -28,7 +28,7 @@ type('Downloading modules...')                                                  
 
 If you see something like this avoid downloading it
 
-- Credits: (shahzain)[https://github
-com/shahzain345]
+- (shahzain)[https://github
+com/shahzain345] ~ (c)
 
 ---------------------------------------------------
