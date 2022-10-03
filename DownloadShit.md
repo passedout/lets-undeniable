@@ -29,6 +29,6 @@ type('Downloading modules...')                                                  
 If you see something like this avoid downloading it
 
 - (shahzain)[https://github
-com/shahzain345] ~ (c)
+com/shahzain345]
 
 ---------------------------------------------------
