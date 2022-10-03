@@ -49,7 +49,7 @@
 - [Skipted](https://github.com/scripted-1337)
 - [Ui](https://github.com/UiIsBack)
 - [Merkz](https://github.com/ItsMerkz)
-- [Sleepy (aka. karma)](https://github.com/passedout)
+- [exte (aka. karma & Sleepy)](https://github.com/passedout)
 - [Tainted](https://github.com/Tainted06) Retired 😢.
 - [Shahzain](https://github.com/shahzain345)
 - [Vesperlol](https://github.com/vesperlol)
@@ -112,7 +112,7 @@
 - [@FATBee](https://t.me/fatbeebhw)
 - [@Siegfried](https://t.me/siegfried_tos)
 - [@Vanshaj](https://t.me/campingarunner)
-- [@Sleepy (aka. karma)](https://t.me/boobjob)
+- [@exte (aka. karma & Sleepy)](https://t.me/boobjob)
 
 ⚠️ Always Click on the username from here to ensure you're talking to the right person. ⚠️
 
