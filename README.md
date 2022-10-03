@@ -53,6 +53,7 @@
 - [Tainted](https://github.com/Tainted06) Retired 😢.
 - [Shahzain](https://github.com/shahzain345)
 - [Vesperlol](https://github.com/vesperlol)
+- [Dropout](https://github.com/dropout1337)
 
 -----
 
@@ -162,7 +163,6 @@
 - [Gingest](https://t.me/gingest) - Scammed allot of lil 10 y.o dahoodians and tryna act rich 💀 + @dmdgo members and prob other communitys. Funny --> [click me](https://cdn.discordapp.com/attachments/1017716626373750814/1025809987819274390/unknown.png) BTW This counts aswell for his femboy dick rider friend Xhulo!
 - [adzinoo](https://github.com/adzinoo) - scamming token gen for 50 bucks sheesh ~ Vichy
 - [CryonicsX](https://github.com/CryonicsX) - this kid selling my solver LMAO (https://media.discordapp.net/attachments/943968212251467877/947079061757366282/unknown.png) ~ Vichy
-- [Dropout](https://github.com/dropout1337) - Was selling fake wallet miners and scamming aswell. *Skid action*
 - [ExordiumX](https://github.com/ExordiumX) - Scammed many people for huge amount of $. For example skidded (DMDGO By: V4NSH4J) and later even started scamming since there came new updates for dmdgo. Danke vanish for ur sexy art work.
 - [TT-Tutorials](https://github.com/TT-Tutorials) - lol this kid resell my tools and skid github ~ Vichy | Skid and owns skid community ~ Karma
 - [Anarchy skid list](https://github.com/master7720/anarchy-skid-list)
