@@ -4,6 +4,7 @@ Github has always been a healthy place to get all kinds of software and scripts 
 but there are still many children near puberty who have fun posting viruses (not_a_virus.exe).
 In this case it is very easy to see the deception.
 
+---------------------------------------------------
 
 # New token grabber going arround on github
 
@@ -27,5 +28,7 @@ type('Downloading modules...')                                                  
 
 If you see something like this avoid downloading it
 
-- Credits: (shahzain)[https://github
+~ Credits: (shahzain)[https://github
 com/shahzain345]
+
+---------------------------------------------------
