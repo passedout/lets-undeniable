@@ -54,6 +54,7 @@
 - [Shahzain](https://github.com/shahzain345)
 - [Vesperlol](https://github.com/vesperlol)
 - [Dropout](https://github.com/dropout1337)
+- [Megant](https://github.com/Megant88)
 
 -----
 
