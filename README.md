@@ -4,7 +4,7 @@
 
 ## Information
 
-- ⭐ If you have something to add or share, create a pull request or dm me on telegram https://t.me/boobjob.
+- ⭐ If you have something to add or share, create a pull request or dm me on telegram https://t.me/socketbased.
 - 🎈 Leave a star and share to growth this "topic".
 - ✨ If you want to translate just create an folder with country name of the language and put the file name.
 
